@@ -1,2 +1,3 @@
 # ci-terraform
-For playing with terraform in CI
+
+Dirty image for bad reasons :) do not use
